@@ -2,11 +2,11 @@
 
 ## Description
 
+Deployed application on Heroku Link
+https://green-scribbles.herokuapp.com/
+
 Github link
 https://github.com/itcreativeusa/green-scribbles
-
-Youtube video guide
-https://youtu.be/-Cf7D6irPfY
 
 This is a Note Taker that can be used to write and save notes. Application uses an Express.js back end and saves and retrieves note data from a JSON file.
 
@@ -21,7 +21,7 @@ This is a Note Taker that can be used to write and save notes. Application uses 
 
 ## Installation
 
-This applicartion must be installed on computer. Open your computer’s command prompt (Windows) or terminal (macOS/Linux) and run the application
+No special requirements. 
  
 ## Requirements
 
