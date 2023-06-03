@@ -1,3 +1,4 @@
+//Declare variables
 const express = require("express");
 const path = require("path");
 const apiNotes = require("./routes/notes.js");
@@ -24,7 +25,7 @@ app.get("/notes", (req, res) =>
 app.get("*", (req, res) =>
   res.sendFile(path.join(__dirname, "public/index.html"))
 );
-
+//Listen port
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT} 🚀`)
 );
