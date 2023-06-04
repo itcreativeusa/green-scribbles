@@ -38,8 +38,12 @@ Screenshot located in `./public/assets/img/` folder
 ![green-scribbles](./public/assets/img/screenshot.png)
 
 ## Credits
- 
-Some code in file `component.js` was taken from Mini-Project provided by Berkeley Bootcamp for studying purposes.
+Starter code in files were provided by Berkeley Bootcamp for studying purposes.
+Solution `location_pathname = window.location.pathname.replace(/\/+$/, "");` used in `index.js` file,
+This solution removes trailing slash from `window.location.pathname`.
+
+Solution was found here:
+https://stackoverflow.com/questions/31185383/how-to-remove-trailing-slash-from-window-location-pathname
 
 ## License
 
