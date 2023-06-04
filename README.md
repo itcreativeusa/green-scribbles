@@ -2,7 +2,7 @@
 
 ## Description
 
-Deployed application on Heroku Link
+Deployed application link on Heroku
 https://green-scribbles.herokuapp.com/
 
 Github link
