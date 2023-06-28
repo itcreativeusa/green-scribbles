@@ -29,7 +29,7 @@ No special requirements
 
 ## Usage
 
-Open the Note Taker and click to the notes page. Enter a new note title and the note’s text.
+Open the Note Taker and click on the notes page. Enter a new note title and the note’s text.
 The save icon appears in the navigation at the top of the page
 Click on the Save icon to save your note. Click on the delete icon to delete the saved note. To view existing notes - click on an existing note in the list in the left-hand column. To create a new note - click on the Add icon in the navigation at the top of the page.
  
@@ -38,11 +38,11 @@ Screenshot is located in `./public/assets/img/` folder
 ![green-scribbles](./public/assets/img/screenshot.png)
 
 ## Credits
-Starter code in files was provided by Berkeley Bootcamp for studying purposes.
+The starter code in files was provided by Berkeley Bootcamp for studying purposes.
 Solution `location_pathname = window.location.pathname.replace(/\/+$/, "");` used in `index.js` file,
 This solution removes trailing slash from `window.location.pathname`.
 
-Solution was found here:
+The solution was found here:
 https://stackoverflow.com/questions/31185383/how-to-remove-trailing-slash-from-window-location-pathname
 
 ## License
